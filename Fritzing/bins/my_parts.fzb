@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="EDDY_fixed_1" modelIndex="8975" path="C:/Users/w0464750/Documents/Fritzing/parts/user/EDDY_fixed_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry-pi-4B_1" modelIndex="85410418" path="C:/Users/w0464750/Documents/Fritzing/parts/user/raspberry-pi-4B_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Sensor-Shield-v5_1" modelIndex="85412394" path="C:/Users/w0464750/Documents/Fritzing/parts/user/Sensor-Shield-v5_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

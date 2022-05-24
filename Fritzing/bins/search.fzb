@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="sensor shield">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="Memoire-1.0" modelIndex="85412371" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Memoire-1.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShield" modelIndex="85412373" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/ludusProtoShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_RevB" modelIndex="85412374" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="85412376" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_mega_sensor_shield_v20_bd1049fc611e766457ee7b1378778293_10" modelIndex="85412377" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_mega_sensor_shield_v20.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WiFly_Shield-v17" modelIndex="85412379" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/WiFly_Shield-v17.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShieldWireless" modelIndex="85412381" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/ludusProtoShieldWireless.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun Load Sensor Combinator" modelIndex="85412382" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun Load Sensor Combinator.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduinoXbeere" modelIndex="85412383" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduinoXbeere.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Linit_One_Board_94e356fb7a34b9386a6476cf67d34c6a_12" modelIndex="85412385" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Seeedstudio_LinkIt_ONE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="85412387" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_BasicIOShield" modelIndex="85412388" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_BasicIOShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_Rc1-final" modelIndex="85412390" path="C:/Users/w0464750/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/blueIOT_Rc1-final.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
